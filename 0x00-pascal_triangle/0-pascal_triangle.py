@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 auth: PUTECH
 pascal-triangle
